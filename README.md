@@ -142,7 +142,7 @@ learning_stack = {
   
   ### 🚀 *"Code is poetry written in logic"* 🚀
   
-  ![Snake animation](https://raw.githubusercontent.com/kimothDev/kimothDev/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=kimothDev&bg_color=0D1117&color=FF6E96&line=FF6E96&point=FFFFFF&area=true&hide_border=true)
   
   **⭐ Star my repositories if you find them interesting!**
   
