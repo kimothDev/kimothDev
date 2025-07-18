@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Venuja Kimoth
+# 👋 Hi, I'm Kimoth
 
 <div align="center">
   
@@ -99,7 +99,7 @@ const kimoth = {
   **🧠 Key Features:**
   - AI-powered session recommendations using Contextual Bandits
   - Thompson Sampling for adaptive learning
-  - Smart break suggestions based on user behaviour
+  - Smart break suggestions based on user behavior
   - Beautiful, intuitive UI with dark mode support
   
   [![View Repository](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kimothDev/SmartFocusTimer)
@@ -110,11 +110,10 @@ const kimoth = {
 
 ```python
 learning_stack = {
-    "frontend": ["React.js", "Next.js", "Tailwind CSS"],
-    "backend": ["Node.js", "Express.js", "GraphQL"],
-    "database": ["PostgreSQL", "MongoDB", "Redis"],
-    "ai_ml": ["Deep Learning", "Computer Vision", "NLP"],
-    "cloud": ["AWS", "Docker", "Kubernetes"]
+    "frontend": ["React.js", "Next.js"],
+    "backend": ["Node.js"],
+    "database": ["PostgreSQL"],
+    "cloud": ["AWS", "Docker"]
 }
 ```
 
@@ -122,10 +121,21 @@ learning_stack = {
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venuja-kimoth)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/VenujaKimoth)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venuja2k02@gmail.com)
-  <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com) -->
+  <a href="https://www.linkedin.com/in/venuja-kimoth" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2&logoWidth=20" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://x.com/VenujaKimoth" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white&labelColor=000000&color=000000&logoWidth=20" alt="Twitter"/>
+  </a>
+  
+  <a href="mailto:venuja2k02@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335&logoWidth=20" alt="Email"/>
+  </a>
+  
+  <!-- <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=react&logoColor=white&labelColor=FF6B6B&color=FF6B6B&logoWidth=20" alt="Portfolio"/>
+  </a> -->
   
 </div>
 
@@ -142,7 +152,7 @@ learning_stack = {
   
   ### 🚀 *"Code is poetry written in logic"* 🚀
   
-  ![Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=kimothDev&bg_color=0D1117&color=FF6E96&line=FF6E96&point=FFFFFF&area=true&hide_border=true)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kimothDev&bg_color=0D1117&color=FF6E96&line=FF6E96&point=FFFFFF&area=true&hide_border=true)
   
   **⭐ Star my repositories if you find them interesting!**
   
