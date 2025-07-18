@@ -66,7 +66,6 @@ const kimoth = {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 **AI/ML & Data**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -100,7 +99,7 @@ const kimoth = {
   **🧠 Key Features:**
   - AI-powered session recommendations using Contextual Bandits
   - Thompson Sampling for adaptive learning
-  - Smart break suggestions based on user behavior
+  - Smart break suggestions based on user behaviour
   - Beautiful, intuitive UI with dark mode support
   
   [![View Repository](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kimothDev/SmartFocusTimer)
