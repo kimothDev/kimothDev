@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kimoth
+# 👋 Hi, I'm Venuja Kimoth
 
 <div align="center">
   
