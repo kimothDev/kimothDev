@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Kimoth
+# 👋 Hi, I'm Venuja Kimoth
 
 <div align="center">
   
-  **Computer Science (Software Engineering) Student | AI Enthusiast | Problem Solver**
+  **Computer Science (Specialised in Software Engineering) Student | AI Enthusiast | Problem Solver**
   
   ![Profile Views](https://komarev.com/ghpvc/?username=kimothDev&color=blueviolet&style=flat-square)
   [![GitHub followers](https://img.shields.io/github/followers/kimothDev?style=flat-square&color=blue)](https://github.com/kimothDev)
@@ -52,7 +52,7 @@ const kimoth = {
 **Web Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-404D59?style=for-the-badge&logo=next.js&logoColor=white)
 
 **Database & Cloud**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -62,7 +62,6 @@ const kimoth = {
 **Tools & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 **AI/ML & Data**
@@ -94,12 +93,12 @@ const kimoth = {
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
   ![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=brain&logoColor=white)
-  ![ML](https://img.shields.io/badge/ML-4ECDC4?style=flat-square&logo=tensorflow&logoColor=white)
+  ![ML](https://img.shields.io/badge/ML-4ECDC4?style=flat-square&logo=scikit-learn&logoColor=white)
   
   **🧠 Key Features:**
   - AI-powered session recommendations using Contextual Bandits
   - Thompson Sampling for adaptive learning
-  - Smart break suggestions based on user behavior
+  - Smart break suggestions based on user behaviour
   - Beautiful, intuitive UI with dark mode support
   
   [![View Repository](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kimothDev/SmartFocusTimer)
