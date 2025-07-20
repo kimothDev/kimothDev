@@ -4,10 +4,6 @@
   
   **Computer Science (Specialised in Software Engineering) Student | AI Enthusiast | Problem Solver**
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=kimothDev&color=blueviolet&style=flat-square)
-  [![GitHub followers](https://img.shields.io/github/followers/kimothDev?style=flat-square&color=blue)](https://github.com/kimothDev)
-  [![GitHub stars](https://img.shields.io/github/stars/kimothDev?style=flat-square&color=yellow)](https://github.com/kimothDev)
-  
 </div>
 
 ## 🚀 About Me
