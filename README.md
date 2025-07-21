@@ -21,7 +21,7 @@ const kimoth = {
 
 ## 🛠️ Tech Arsenal
 
-<details>
+<details open>
 <summary><b>🖥️ Programming Languages</b></summary>
 <br>
 
@@ -36,7 +36,7 @@ const kimoth = {
 
 </details>
 
-<details>
+<details open>
 <summary><b>🚀 Frameworks & Technologies</b></summary>
 <br>
 
