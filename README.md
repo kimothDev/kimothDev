@@ -19,7 +19,7 @@ Currently the Chief Technology Officer of My Bedroom, overseeing critical operat
 
 **Frameworks I've abandoned:** React (current obsession), React Native, Flutter, Angular (we don't talk about that phase), Next.js
 
-**Databases I've confused:** PostgreSQL, SQLite, Firebase, Excel (it counts)
+**Databases I've confused:** PostgreSQL, SQLite, Firebase, Excel (if counts)
 
 **Tools that confuse me:** Docker (black magic), Git (when things go wrong)
 
