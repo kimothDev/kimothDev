@@ -17,11 +17,15 @@ Currently the Chief Technology Officer of My Bedroom, overseeing critical operat
 
 **Languages I've googled:** JavaScript, TypeScript, Python, Java, "How to exit vim"
 
-**Frameworks I've had questionable relationships with:** React (current obsession), Tensorflow, React Native, Flutter, Next.js
+**Frameworks I've had questionable relationships with:** React (current obsession), React Native, Flutter, Next.js
 
-**Databases I've confused:** PostgreSQL, SQLite, Firebase, that random CSV Kaggle gave me, Excel (if counts)
+**Libraries/Packages I import then immediately forget how to use:** TensorFlow, scikit-learn, pandas, numpy
 
-**Tools that confuse me:** Docker (black magic), Git (when things go wrong), scikit-learn, pandas, numpy
+**Databases that have judged my data modeling:** PostgreSQL, SQLite, Firebase, that random CSV Kaggle gave me, Excel (if counts)
+
+**Tools that confuse me:** Docker (black magic), Git (when things go wrong)
+
+**Package managers that have broken my environment:** npm, pip, yarn, conda (somehow always conflicts with itself)
 
 ## Philosophy
 
